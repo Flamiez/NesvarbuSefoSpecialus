@@ -1,0 +1,2 @@
+-8. Objektai su labai kitokiu apsvietimu labai prastai generuoja backgrounds kai darome inpainting
+Sprendimas: K-means padaryti ir atrinkti kokia viena grupe objektu
